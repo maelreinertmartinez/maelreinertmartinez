@@ -45,11 +45,12 @@ ProvisionalCalendar est une application innovante de gestion de calendrier conç
 ### 🔥 Motivations
 
 Ma passion pour le développement web est alimentée par plusieurs facteurs clés :
-	1.	**Innovation technologique** : Je suis constamment stimulé par l’évolution rapide des technologies web et j’aime relever le défi d’apprendre et d’appliquer de nouvelles compétences.
-	2.	**Résolution de problèmes** : Chaque projet est une opportunité de résoudre des problèmes complexes de manière créative, ce qui me pousse à toujours chercher des solutions innovantes.
-	3.	Impact utilisateur : Je suis motivé par la création d’applications qui ont un impact positif sur la vie des utilisateurs, en améliorant leur productivité ou leur expérience quotidienne.
-	4.	**Collaboration** : Le travail en équipe et l’échange d’idées avec d’autres développeurs m’inspirent et me poussent à m’améliorer constamment.
-	5.	**Apprentissage continu** : Le domaine du développement web est en constante évolution, ce qui me permet d’apprendre continuellement et de rester à la pointe de la technologie.
+
+1. **Innovation technologique** : Je suis constamment stimulé par l’évolution rapide des technologies web et j’aime relever le défi d’apprendre et d’appliquer de nouvelles compétences.
+2. **Résolution de problèmes** : Chaque projet est une opportunité de résoudre des problèmes complexes de manière créative, ce qui me pousse à toujours chercher des solutions innovantes.
+3. Impact utilisateur : Je suis motivé par la création d’applications qui ont un impact positif sur la vie des utilisateurs, en améliorant leur productivité ou leur expérience quotidienne.
+4. **Collaboration** : Le travail en équipe et l’échange d’idées avec d’autres développeurs m’inspirent et me poussent à m’améliorer constamment.
+5. **Apprentissage continu** : Le domaine du développement web est en constante évolution, ce qui me permet d’apprendre continuellement et de rester à la pointe de la technologie.
  
 ## 📫 Contact
 
