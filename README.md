@@ -42,6 +42,17 @@ ProvisionalCalendar est une application innovante de gestion de calendrier conç
   - **Databases:** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?logo=mongodb&logoColor=white)
   - **Agile Methods:** ![SCRUM](https://img.shields.io/badge/-SCRUM-6DB33F?logo=scrumalliance&logoColor=white) ![Story Mapping](https://img.shields.io/badge/-Story%20Mapping-6DB33F?logo=bookstack&logoColor=white)
 
+## 🛠️ Outils et environnement de développement
+
+- **Conteneurisation:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+- **Contrôle de version:** ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+- **IDE:** ![JetBrains](https://img.shields.io/badge/-JetBrains-000000?logo=jetbrains&logoColor=white) (PhpStorm, WebStorm, IntelliJ IDEA), ![Windsurf](https://img.shields.io/badge/-Windsurf-00A3E0?logo=windsurfing&logoColor=white)
+- **Gestion de projet:** ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white)
+- **Design:** ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+- **API Testing:** ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+- **CI/CD:** ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
+- **Virtualisation:** ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox&logoColor=white)
+
 ### 🔥 Motivations
 
 Ma passion pour le développement web est alimentée par plusieurs facteurs clés :
