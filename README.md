@@ -37,11 +37,10 @@ ProvisionalCalendar est une application innovante de gestion de calendrier conç
 
 ## 💻 Compétences techniques
 
-- **Langages**: JavaScript (ES6+), TypeScript, HTML5, CSS3
-- **Front-end**: React, Tailwind CSS, VueJS
-- **Back-end**: Node.js, Express, MongoDB, PostgreSQL, MariaDB
-- **Outils**: Git, Docker
-- **Méthodologies**: Agile/Scrum, CI/CD
+ - **Languages:** ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
+  - **Frameworks:** ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+  - **Databases:** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?logo=mongodb&logoColor=white)
+  - **Agile Methods:** ![SCRUM](https://img.shields.io/badge/-SCRUM-6DB33F?logo=scrumalliance&logoColor=white) ![Story Mapping](https://img.shields.io/badge/-Story%20Mapping-6DB33F?logo=bookstack&logoColor=white)
 
 ## 📫 Contact
 
