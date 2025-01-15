@@ -45,8 +45,13 @@
 - Apprend de mes erreurs
 - Apprend vite
 ## Mes compétences
-- Développement web
+- Développement web :
+   - Javascript (Typescript, ReactJS, VueJS)
+   - PHP (Laravel)
 - Développement mobile
+   - C# (.NET MAUI)
+   - Java/Kotlin (Multiplatform SDK)
+   - Javascript (React Native)
 - Administration réseau
 - Linux
 # Objectif professionel
