@@ -1,62 +1,42 @@
 ![alt text](./header.png)
 
-# Qui suis-je ?
-<table>
-  <tr>
-    <th>Prénom</th>
-    <td>Maël</td>
-  </tr>
-  <tr>
-    <th>Nom</th>
-    <td>REINERT MARTINEZ</td>
-  </tr>
-  <tr>
-    <th>Age</th>
-    <td>20 ans</td>
-  </tr>
-  <tr>
-    <th>Situation</th>
-    <td>Étudiant en troisième année de BUT Informatique <br>
-    à l'IUT du Limousin</td>
-  </tr>
-</table>
+# Maël Reinert Martinez - Portfolio
 
-## Mon parcours
-### 2019 - 2022 : Lycéen au LGT Georges Canabis à Brive-la-Gaillarde
+## 👋 Présentation
 
-**Spécialités :**
-- Mathématiques
-- Sciences de l'ingénieur
-- Physique-Chimie (Abandonné en terminal)
+Bonjour, je suis Maël Reinert Martinez, un développeur web passionné par la création d'applications innovantes et performantes. Mon expertise couvre principalement le développement front-end avec VueJS, ainsi que le back-end avec Laravel.
 
-**Options :** Mathématiques expertes
+## 🚀 Projets phares
 
-### 2022 - 2025 : Étudiant en BUT Informatique à l'IUT du Limousin à Limoges
+### Projet phare : ProvisionalCalendar
+Description
+ProvisionalCalendar est une application innovante de gestion de calendrier conçue pour répondre aux besoins de planification flexible et temporaire. Ce projet vise à simplifier la création et la gestion d’événements provisoires, offrant une solution adaptée aux emplois du temps dynamiques et en constante évolution.
+**Technologies utilisées**
+	•	Frontend: VueJS
+	•	Backend: Laravel
+	•	Base de données: MariaDB
+**Fonctionnalités principales**
+	•	Création d’événements provisoires avec dates et heures flexibles
+	•	Gestion intelligente des conflits entre événements
+	•	Synchronisation multi-plateformes (desktop, tablette, mobile)
+	•	Notifications personnalisables pour les changements d’horaires
+**Défis techniques relevés**
+	•	Implémentation d’un système de verrouillage optimiste pour la gestion de la concurrence
+	•	Optimisation des performances avec techniques de mise en cache et d’indexation
+	•	Conception d’un schéma de base de données flexible pour divers types d’événements
+**Lien du projet** : https://github.com/0wme/ProvisionalCalendar
 
-**Parcours :** Réalisation d’Applications : Conception, Développement, Validation
+## 💻 Compétences techniques
 
-## Mes motivations
-- Premier ordinateur à mes 4 ans
-- Montage d'ordinateur à 14 ans
-- Connaissance du fonctionnement d'un ordinateur
-- Logique de développement
-## Mes qualités
-- Autonome
-- Apprend de mes erreurs
-- Apprend vite
-## Mes compétences
-- Développement web :
-   - Javascript (Typescript, ReactJS, VueJS)
-   - PHP (Laravel)
-- Développement mobile
-   - C# (.NET MAUI)
-   - Java/Kotlin (Multiplatform SDK)
-   - Javascript (React Native)
-- Administration réseau
-- Linux
-# Objectif professionel
-- Cybersécurité
-- Développeur web
-# Me contacter
-Mail : mael.reinert-martinez@etu.unilim.fr \
-Téléphone : 06.37.25.62.22
+- **Langages**: JavaScript (ES6+), TypeScript, HTML5, CSS3
+- **Front-end**: React, Tailwind CSS, VueJS
+- **Back-end**: Node.js, Express, MongoDB, PostgreSQL, MariaDB
+- **Outils**: Git, Docker
+- **Méthodologies**: Agile/Scrum, CI/CD
+
+## 📫 Contact
+
+N'hésitez pas à me contacter pour discuter de collaborations potentielles ou simplement échanger sur le développement web !
+
+- Email: maelreinertmartinez@example.com
+- LinkedIn: [maelreinertmartinez](https://www.linkedin.com/in/mael-reinert-martinez-515633217/)
