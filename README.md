@@ -12,11 +12,11 @@
   </tr>
   <tr>
     <th>Age</th>
-    <td>19 ans</td>
+    <td>20 ans</td>
   </tr>
   <tr>
     <th>Situation</th>
-    <td>Étudiant en deuxième année de BUT Informatique <br>
+    <td>Étudiant en troisième année de BUT Informatique <br>
     à l'IUT du Limousin</td>
   </tr>
 </table>
@@ -31,7 +31,7 @@
 
 **Options :** Mathématiques expertes
 
-### 2022 - 2024 : Étudiant en BUT Informatique à l'IUT du Limousin à Limoges
+### 2022 - 2025 : Étudiant en BUT Informatique à l'IUT du Limousin à Limoges
 
 **Parcours :** Réalisation d’Applications : Conception, Développement, Validation
 
